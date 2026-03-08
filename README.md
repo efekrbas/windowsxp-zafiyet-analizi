@@ -48,7 +48,7 @@ Screenshare komutuyla hedef makineyi tarayıcı üzerinden canlı olarak izlemey
 <img width="842" height="163" alt="image" src="https://github.com/user-attachments/assets/7428e6f9-7f6a-4ac8-93a4-8a8c4426e35c" />
 
  
-Clearev komutu ile sistem loglarını temizledim (bu komutun kullanmamın sebebi yaptığım işlemlerin logunu ortadan kaldırmak, iz bırakmamak)
+Clearev komutu ile sistem loglarını temizledim (bu komutun kullanmamın sebebi iz bırakmamak)
 
 <img width="799" height="148" alt="image" src="https://github.com/user-attachments/assets/6f6ab6d8-449a-4cad-876a-79847387b8e2" />
 
