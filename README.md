@@ -1,4 +1,4 @@
-# windowsxp-zafiyet-analiz
+# Windows XP Zafiyet Analizi
 
 İlk olarak ağda cihaz taraması yaptım 
 
