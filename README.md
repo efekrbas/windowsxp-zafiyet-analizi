@@ -37,7 +37,7 @@ Ardından hashdump komutuyla kullanıcıların MD5 hash'lerine eriştim.
 screenshot komutunu kullanarak hedef makinenin anlık ekran görüntüsünü aldım.
 
 <img width="827" height="106" alt="image" src="https://github.com/user-attachments/assets/86654230-c8d6-4155-abba-4ba588de127a" />
-
+<br>
 <img width="945" height="598" alt="image" src="https://github.com/user-attachments/assets/9d8e25d4-f2f2-48e5-8072-db08a6477ec4" />
 
  
