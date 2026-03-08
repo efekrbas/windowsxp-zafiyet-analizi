@@ -1,6 +1,6 @@
 # Windows XP Zafiyet Analizi
 
-İlk olarak ağda cihaz taraması yaptım 
+İlk olarak netdiscover kullanarak ağda cihaz taraması yaptım 
 
 <img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/cba415e5-38f7-4482-b14e-eaa528138cd1" />
 
